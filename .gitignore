@@ -17,7 +17,7 @@
 
 # Ignore the cross-compiled tests
 */obj/*
-unit_tests/active_record_tests
+unit_tests/jl_signal_tests
 *.db
 Makefile
 CMakeCache.txt
